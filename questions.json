@@ -1,0 +1,78 @@
+[
+  {
+    "question": "What is your weapon of choice?",
+    "options": ["Sword", "Spear", "Axe", "Bow"],
+    "trait": "weapon_choice"
+  },
+  {
+    "question": "Which element do you find most appealing?",
+    "options": ["Fire", "Water", "Wind", "Earth", "Snow", "Gold"],
+    "trait": "element_preference"
+  },
+  {
+    "question": "What is your preferred approach in resolving a conflict?",
+    "options": ["Diplomacy", "Combat", "Negotiation", "Deception", "Avoidance"],
+    "trait": "conflict_resolution"
+  },
+  {
+    "question": "Do you prefer being at sea or on land?",
+    "options": ["Land", "Sea"],
+    "trait": "environment_preference"
+  },
+  {
+    "question": "Do you prefer cold or hot weather?",
+    "options": ["Cold", "Hot", "Neither"],
+    "trait": "weather_preference"
+  },
+  {
+    "question": "How would you describe your leadership style?",
+    "options": [
+      "Authoritative",
+      "Charismatic",
+      "Strategic",
+      "Adaptable",
+      "Collaborative"
+    ],
+    "trait": "leadership_style"
+  },
+  {
+    "question": "Do you believe in second chances?",
+    "options": ["Yes", "No"],
+    "trait": "second_chance_belief"
+  },
+  {
+    "question": "In a crisis, do you prioritize personal gain or strive for the greater good?",
+    "options": ["Personal Gain", "Greater Good"],
+    "trait": "crisis_priority"
+  },
+  {
+    "question": "Would you rather be known for your strength, your intelligence or your integrity?",
+    "options": ["Intelligence", "Strength", "Integrity"],
+    "trait": "attribute_preference"
+  },
+  {
+    "question": "Do you believe in destiny or in forging your own path?",
+    "options": ["Destiny", "Forging Your Own Path"],
+    "trait": "destiny_belief"
+  },
+  {
+    "question": "Do you think you should always follow the law or do what you think is right regardless of the law?",
+    "options": ["Always follow the law", "ALways do what is right"],
+    "trait": "lawful"
+  },
+  {
+    "question": "Are you quick to anger?",
+    "options": ["Yes", "No"],
+    "trait": "anger_management"
+  },
+  {
+    "question": "Are you okay with telling white lies for your own benefit?",
+    "options": ["Yes", "No"],
+    "trait": "white_lie"
+  },
+  {
+    "question": "Do you like Learning",
+    "options": ["Yes", "No"],
+    "trait": "learning"
+  }
+]

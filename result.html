@@ -12,9 +12,18 @@
     <div class="bg-white p-8 rounded-md shadow-md">
       <h1 class="text-3xl font-bold mb-4">Results are in!</h1>
 
+      <!-- Display the image if available -->
+      {% if image_base64 %}
+      <img
+        src="data:image/png;base64,{{ image_base64 }}"
+        alt="Result Image"
+        class="mt-4 max-w-3xl"
+      />
+      {% endif %}
+
       <p class="text-lg">{{ result }}</p>
 
-      <a href="/" class="mt-4 text-blue-500 hover:underline">Back to Home</a>
+      <a href="/" class="mt-4 text-blue-500 hover:underline">Try again?</a>
     </div>
   </body>
 </html>

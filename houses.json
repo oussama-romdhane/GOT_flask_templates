@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Stark",
+    "banner": "game of thrones, minimalistic, 2d, flat, house stark, house stark direwolf ((head)) sigil, grey direwolf ((head)), blue snowy background, snow",
+    "result": "You are part of House Stark, whose family words are 'Winter is Coming.' Stark members are known for their resilience, honor, and deep connection to the northern lands. Your loyalty to your family and your sense of duty make you a true Stark."
+  },
+  {
+    "name": "Lannister",
+    "banner": "game of thrones, minimalistic, 2d, flat, house lannister, house lannister ((golden)) lion ((head)) sigil, ((golden)) lion ((head)) printed on red crimson cape",
+    "result": "You are part of House Lannister, known for their family words 'Hear Me Roar!' and 'A Lannister always pays his debts.' Lannisters are ambitious, cunning, and value power and wealth. Your cleverness and ambition align you with House Lannister."
+  },
+  {
+    "name": "Tyrell",
+    "banner": "game of thrones, minimalistic, 2d, flat, house tyrell, house tyrell golden rose ((head)) sigil, golden rose ((head)) printed on a green field",
+    "result": "You are part of House Tyrell, whose family words are 'Growing Strong.' Tyrells are known for their agricultural prowess, grace, and politeness. Your love for beauty and appreciation of elegance make you a true Tyrell."
+  },
+  {
+    "name": "Martell",
+    "banner": "game of thrones, minimalistic, 2d, flat, house martell, house martell red sun ((head)) sigil, red sun ((head)) pierced by a gold spear, on an orange field",
+    "result": "You are part of House Martell, whose family words are 'Unbowed, Unbent, Unbroken.' Martells are known for their fierce independence and strength. Your resilience and determination align you with House Martell."
+  },
+  {
+    "name": "Tully",
+    "banner": "game of thrones, minimalistic, 2d, flat, house tully, house tully silver trout ((head)) sigil, silver trout ((head)) leaping on a blue and red striped field",
+    "result": "You are part of House Tully, whose family words are 'Family, Duty, Honor.' Tullys are known for their strong sense of family and duty. Your commitment to your family and honorable actions make you a true Tully."
+  },
+  {
+    "name": "Baratheon",
+    "banner": "game of thrones, minimalistic, 2d, flat, house baratheon, house baratheon crowned stag ((head)) sigil, crowned black stag ((head)) on a gold field",
+    "result": "You are part of House Baratheon, whose family words are 'Ours is the Fury.' Baratheons are known for their strength, determination, and martial prowess. Your fiery temperament and courage align you with House Baratheon."
+  },
+  {
+    "name": "Targaryen",
+    "banner": "game of thrones, minimalistic, 2d, flat, house targaryen, house targaryen three-headed dragon ((head)) sigil, three-headed red dragon ((head)) on a black field",
+    "result": "You are part of House Targaryen, whose family words are 'Fire and Blood.' Targaryens are known for their connection to dragons, ambition, and a history of conquest. Your inner fire and desire for greatness align you with House Targaryen."
+  },
+  {
+    "name": "Arryn",
+    "banner": "game of thrones, minimalistic, 2d, flat, house arryn, house arryn white falcon and crescent moon ((head)) sigil, white falcon ((head)) and crescent moon ((head)) on a blue field",
+    "result": "You are part of House Arryn, whose family words are 'As High as Honor.' Arryns are known for their connection to the Eyrie and their commitment to honor. Your sense of duty and loyalty align you with House Arryn."
+  },
+  {
+    "name": "Greyjoy",
+    "banner": "game of thrones, minimalistic, 2d, flat, house greyjoy, house greyjoy golden kraken ((head)) sigil, golden kraken ((head)) on a black field",
+    "result": "You are part of House Greyjoy, whose family words are 'We Do Not Sow.' Greyjoys are known for their seafaring ways, independence, and strength. Your love for the open sea and desire for freedom align you with House Greyjoy."
+  },
+  {
+    "name": "Maester",
+    "banner": "game of thrones, minimalistic, 2d, flat, citadel, old order, maester",
+    "result": "You are a Maester, a learned scholar of the Citadel. As a Maester, you dedicate your life to the pursuit of knowledge and serve as a healer, advisor, and keeper of wisdom in the realm."
+  }
+]
