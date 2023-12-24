@@ -36,7 +36,7 @@
     "trait": "leadership_style"
   },
   {
-    "question": "Do you believe in second chances?",
+    "question": "Do you believe in giving people second chances?",
     "options": ["Yes", "No"],
     "trait": "second_chance_belief"
   },
