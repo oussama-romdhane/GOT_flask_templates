@@ -1,17 +1,17 @@
 [
   {
     "question": "What is your weapon of choice?",
-    "options": ["Sword", "Spear", "Axe", "Bow"],
+    "options": ["Sword", "Spear", "Axe", "Bow", "Hammer", "Poison"],
     "trait": "weapon_choice"
   },
   {
-    "question": "Which element do you find most appealing?",
-    "options": ["Fire", "Water", "Wind", "Earth", "Snow", "Gold"],
-    "trait": "element_preference"
+    "question": "What is most important to you?",
+    "options": ["My Friends", "My Family", "My Career"],
+    "trait": "most_important"
   },
   {
     "question": "What is your preferred approach in resolving a conflict?",
-    "options": ["Diplomacy", "Combat", "Negotiation", "Deception", "Avoidance"],
+    "options": ["Diplomacy", "Combat", "Negociation", "Deception", "Avoidance"],
     "trait": "conflict_resolution"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "question": "Do you prefer cold or hot weather?",
-    "options": ["Cold", "Hot", "Neither"],
+    "options": ["Cold", "Hot", "Balanced"],
     "trait": "weather_preference"
   },
   {
@@ -41,23 +41,17 @@
     "trait": "second_chance_belief"
   },
   {
-    "question": "In a crisis, do you prioritize personal gain or strive for the greater good?",
-    "options": ["Personal Gain", "Greater Good"],
-    "trait": "crisis_priority"
-  },
-  {
     "question": "Would you rather be known for your strength, your intelligence or your integrity?",
     "options": ["Intelligence", "Strength", "Integrity"],
     "trait": "attribute_preference"
   },
   {
-    "question": "Do you believe in destiny or in forging your own path?",
-    "options": ["Destiny", "Forging Your Own Path"],
-    "trait": "destiny_belief"
-  },
-  {
     "question": "Do you think you should always follow the law or do what you think is right regardless of the law?",
-    "options": ["Always follow the law", "ALways do what is right"],
+    "options": [
+      "Always follow the law",
+      "Always do what is right",
+      "Always do what is best for me"
+    ],
     "trait": "lawful"
   },
   {
@@ -71,7 +65,17 @@
     "trait": "white_lie"
   },
   {
-    "question": "Do you like Learning",
+    "question": "What is your favorite element?",
+    "options": ["Fire", "Water", "Wind", "Earth"],
+    "trait": "element_preference_1"
+  },
+  {
+    "question": "What is your second favorite element?",
+    "options": ["Snow", "Gold", "Sand", "Salt"],
+    "trait": "element_preference_2"
+  },
+  {
+    "question": "Do you like Learning new things?",
     "options": ["Yes", "No"],
     "trait": "learning"
   }
